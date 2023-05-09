@@ -21,3 +21,4 @@ Run the command:
 - Seaborn
 - Scikit-learn
 - Scipy
+- XGBoost
